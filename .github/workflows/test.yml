@@ -45,4 +45,3 @@ jobs:
           name: resultado-dos-testes
           path: relatorios/testes.xml
           if-no-files-found: ignore
-
